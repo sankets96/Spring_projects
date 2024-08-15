@@ -7,5 +7,13 @@ Technology Used: Backend: Spring MVC for handling the server-side logic and REST
 Frontend: HTML, CSS, and JavaScript for building the user interface 
 Styling: Bootstrap for responsive and consistent styling.
 
+
+##Login
 ![Login](https://github.com/sankets96/Spring_projects/blob/master/Screenshots/Login.png)
 
+
+##Signup
+![Signup](https://github.com/sankets96/Spring_projects/blob/master/Screenshots/signup.png)
+
+##Dashbaord
+![Signup](https://github.com/sankets96/Spring_projects/blob/master/Screenshots/Dashboard.png)
