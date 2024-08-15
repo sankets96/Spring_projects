@@ -6,3 +6,6 @@ Objectives: 1)Utilize Spring MVC to handle server-side operations, enabling user
 Technology Used: Backend: Spring MVC for handling the server-side logic and RESTful services. 
 Frontend: HTML, CSS, and JavaScript for building the user interface 
 Styling: Bootstrap for responsive and consistent styling.
+
+![Login](https://github.com/sankets96/Spring_projects/blob/master/Screenshots/Login.png)
+
